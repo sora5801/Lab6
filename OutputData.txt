@@ -1,6 +1,6 @@
            Balance Owing: $624.00
            APR as % 24
-           Percent for minimum payment as %4
+           Percent for minimum payment as % 4
        -----------------------------------------
 Month   Balance   Interest this    Minimum   Sum of interest 
                      month                         paid
